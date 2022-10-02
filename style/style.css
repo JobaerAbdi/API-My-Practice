@@ -1,0 +1,14 @@
+.styleMainContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    background-color:rgb(192, 115, 32);
+
+}
+.divStyle{
+    background-color: rgb(111, 231, 231);
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 25px;
+}
